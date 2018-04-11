@@ -1,0 +1,21 @@
+.cards{
+  display: flex;
+  flex-direction: row;
+}
+
+.card{
+  margin: 10px;
+}
+
+.card img{
+  width: 100px;
+  height: auto;
+}
+
+.buttons button{
+  margin: 10px;
+}
+
+.message{
+  height: 50px;
+}
